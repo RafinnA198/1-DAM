@@ -1,6 +1,5 @@
 # Repositorio de apuntes de DAM
 
-|-----|
 
 ## Horario
 
